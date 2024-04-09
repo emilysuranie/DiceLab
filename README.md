@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-Project asks users how many times they would like to roll the dice. The users inputs a number and in return get the number(s) that were rolled on, how many times the same number was rolled, and the expectations and differences.
+This project asks users how many times they would like to roll the dice. The users input a number and get the number(s) rolled on, how many times the same number was rolled, and the expectations and differences.
 <br />
 
 
@@ -18,7 +18,7 @@ Project asks users how many times they would like to roll the dice. The users in
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/0URStWL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/7sPnp46" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>

@@ -17,32 +17,31 @@ This project asks users how many times they would like to roll the dice. The use
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://imgur.com/a/7sPnp46" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Find the dice number rolled: <br/>
+<img src="https://i.imgur.com/5VTmJnk.png" height="80%" width="80%" alt="Finding Dice Roll"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Getting dice roll results:  <br/>
+<img src="https://i.imgur.com/GhVIfij.png" height="80%" width="80%" alt="Start count at 0"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Tracking how many times the number was rolled: <br/>
+<img src="https://i.imgur.com/gPqEQsS.png" height="80%" width="80%" alt="Finding the total roll"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Making the rows:  <br/>
+<img src="https://i.imgur.com/kjqwY8y.png" height="80%" width="80%" alt="Making the rows"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Finding the percent, expectations, and differences:  <br/>
+<img src="https://i.imgur.com/OMshg2i.png" height="80%" width="80%" alt="Finding the percent, expectations, and differences"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Making the main function and calling it:  <br/>
+<img src="https://i.imgur.com/0HSVHd9.png" height="80%" width="80%" alt="Making and calling the main function"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 
 <!--
